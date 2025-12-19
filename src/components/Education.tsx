@@ -11,7 +11,7 @@ export const Education = () => {
       degree: "Master's in Computer & Information Systems",
       institution: 'Eastern Illinois University',
       location: 'Charleston, IL',
-      date: '2016',
+      date: '2025',
       icon: '🎓',
     },
   ];
